@@ -1,0 +1,16 @@
+{
+  "folders": [{ "path": ".", "name": "I Met Jesus Community website" }],
+  "settings": {
+    "editor.wordWrap": "on",
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "files.exclude": { "**/.DS_Store": true },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.port": 5500,
+    "html.format.wrapLineLength": 0,
+    "search.exclude": { "sitemap.xml": true }
+  },
+  "extensions": {
+    "recommendations": ["ritwickdey.LiveServer", "esbenp.prettier-vscode"]
+  }
+}
